@@ -1,0 +1,377 @@
+﻿
+.zg_banner{
+  width: 100%;
+  height:155px;
+  overflow: hidden;
+  padding-top: 644px;
+  background:url(../images/ban1.jpg) no-repeat center top;
+}
+/* .zg_banner h1{
+  height:771px;
+  margin-top: 44px;
+  background:url(../images/ban.png) no-repeat center top;
+} */
+.zg_banner .qj{
+  width: 440px;
+  height: 153px;
+  margin-left: 372px;
+  background: url(../images/ti1.png) no-repeat center top;
+  margin-top: -20px;
+  font-size: 18px;
+	font-weight: 400;
+  color: #330054;
+  padding: 73px 0 0 195px;
+  box-sizing: border-box;
+}
+.zg_banner .qj p{
+  float: left;
+}
+.zg_banner .qi{
+  float: left;
+  width: 49px;
+  height: 48px;
+  margin-top: -12px;
+  background: url(../images/qi.png) no-repeat center top;
+}
+.zg_banner .ji{
+  float: left;
+  width: 75px;
+  height: 54px;
+  margin-top: -20px;
+  margin-left: -10px;
+  background: url(../images/ji.png) no-repeat center top;
+}
+.maincon{
+  width: 100%;
+  min-width: 1000px;
+  height: 2614px;
+  padding-top: 150px;
+  background: url(../images/maincon.jpg) no-repeat center top;
+  box-sizing: border-box;
+}
+.m1 {
+  position: relative;
+}
+
+.ps{
+  font-size: 22px;
+  text-align: right;
+  color: #fff;
+}
+.p1{
+  position: absolute;
+  top: -9px;
+  left: 31px;
+}
+.p2{
+  position: absolute;
+  top: 195px;
+  left: 125px;
+
+}
+.p3{
+  position: absolute;
+  top: 97px;
+  left: 640px;
+  text-align: left;
+
+}
+.ps span{
+ font-size: 22px;
+ color: #fff100;
+}
+
+.p1 .i1{
+  position: absolute;
+  top: 12px;
+  width: 88px;
+  height: 26px;
+  background: url(../images/l1.png) no-repeat center top;
+}
+.p2 .i1{
+  position: absolute;
+  top: 12px;
+  width: 87px;
+  height: 26px;
+  background: url(../images/l2.png) no-repeat center top;
+}
+.p3 .i1{
+  position: absolute;
+  top: 12px;
+  width: 87px;
+  height: 26px;
+  background: url(../images/r1.png) no-repeat center top;
+}
+.p3 p{
+  margin-left: 95px;
+}
+.m1_mid{
+  padding-top: 1px;
+  height: 250px;
+  background: url(../images/round.png) no-repeat center top;
+}
+.m1_mid p{
+  font-size: 30px;
+  text-align: center;
+  color: #fff;
+}
+.m1_mid p:nth-child(1){
+  margin-top: -19px;
+  margin-left: 14px;
+}
+.m1_mid p:nth-child(2){
+  width: 143px;
+  height: 200px;
+  background: url(../images/3.png) no-repeat center top;
+  margin: 5px auto;
+}
+.m1_mid p:nth-child(3){
+  margin-top: -5px;
+  margin-left: -8px;
+}
+.m2{
+  margin-top: 243px;
+  padding-top: 1px;
+}
+.tab{
+  margin-top: 80px;
+  margin-left: 120px;
+  margin-right: 25px;
+  border: 1px solid #fff;
+  border-radius: 15px;
+  overflow: hidden;
+}
+table{
+  width: 535px;
+  border-collapse: collapse;
+}
+table td{
+  font-size: 20px;
+  text-align: left;
+  color: #fff;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+  padding: 20px;
+}
+table td.td1{
+  width: 7%;
+  text-align: center;
+  background: #fff100;
+  color: #330054;
+  font-size: 24px;
+  font-weight: 600;
+}
+.m2 .ms{
+  width: 193px;
+  height: 369px;
+  background: url(../images/line.png) no-repeat center top;
+}
+.m2 .ms p{
+  padding-top: 58px;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #330054;
+  font-size: 20px;
+}
+.m2 .ms img{
+  width: 193px;
+  height: 199px;
+}
+.m2 .ms a{
+  display: block;
+  width: 106px;
+  margin: auto;
+}
+.m2 .ms a img{
+  margin-top: 10px;
+  display: block;
+  width: 106px;
+  height: 24px;
+}
+.m3{
+  margin-top: 170px;
+  margin-bottom: 121px;
+}
+.m3con{
+  width: 792px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  border-radius: 30px;
+  background: #fff100;
+  margin: auto;
+}
+.m3con h4{
+  font-size: 34px;
+  text-align: center;
+  color: #330054;
+  margin-bottom: 40px;
+}
+.m3con .lb span{
+  float: left;
+  width: 200px;
+  background: #fff;
+  border-radius: 25px;
+  font-size: 24px;
+  line-height: 53px;
+  text-align: center;
+  color: #330054;
+  margin-left: -20px;
+}
+.m3con .lb .jy{
+  float: left;
+  font-size: 20px;
+  line-height: 53px;
+  text-align: left;
+  color: #330054;
+}
+.m3con .dots{
+  margin: 20px 0;
+  height: 1px;
+  background:url(../images/dots.png) no-repeat center top;
+}
+.desk{
+  width: 751px;
+  height: 406px;
+  margin: auto;
+  padding-top: 22px;
+  box-sizing: border-box;
+  background:url(../images/desk.png) no-repeat center top;
+}
+.desk img{
+  width: 689px;
+  height: 336px;
+  display: block;
+  margin: auto;
+}
+/*zg_s6*/
+.zg_s6{
+  padding-top: 67px;
+  background: #181a1f;
+}
+.zg_s6 h4{
+color: #a82930;
+font-size: 40px;
+text-align: center;
+margin-bottom: 20px;
+}
+/*footer*/
+.zg_foot{
+  width:100%;
+  background:#272525;
+  /* padding-bottom:120px; */
+}
+.zg_foot_nr{
+  margin:0 auto;
+  width:1000px;
+  background:#272525;
+  padding:30px 0;
+  text-align:center;
+  color:#b5b5b5;
+  line-height:28px;
+}
+.zg_foot_nr a{
+  color:#b5b5b5;
+}
+/*zg_bat*/
+.zg_bat{
+  width:100%;
+  background: #ffe000;
+  position: fixed;
+  left:0;
+  bottom:0;
+  z-index: 1111;
+}
+.bat_con{
+  width:1000px;
+  height:90px;
+  display: flex;
+  align-items: center;
+  margin:0 auto;
+}
+.bat_con img.bat_title{
+  width:404px;
+  height:48px;
+  float: left;
+  margin-left: 120px;
+  margin-right: 50px;
+}
+.bat_con a.bat_btn{
+  width:212px;
+  height:60px;
+  background: #d7000f;
+  line-height:60px;
+  border-radius:28px;
+  text-align: center;
+  font-size:32px;
+  color: #fff;
+}
+
+/*introduc_con*/
+.introduc_con{
+  width: 600px;
+  height: 512px;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  margin-top: -311px;
+  margin-left: -300px;
+  background: #fff;
+  border-radius: 30px;
+  z-index:1000001;
+  padding:80px 0 30px;
+  display: none;
+}
+.introduc_close{
+  display: block;
+  width:36px;
+  height:36px;
+  display: block;
+  background:url(../images/close_btn.png) no-repeat center center;
+  position: absolute;
+  right:36px;
+  top:20px;
+  cursor: pointer;
+}
+.scroll_wrap{
+  width:560px;
+  height: 512px;
+  margin:0 auto;
+  overflow:auto;
+}
+.introduc_con h6{
+  font-size:24px;
+  line-height:24px;
+  color: #d7000f;
+  font-weight:normal;
+}
+.introduc_con .introduc_list{
+  padding:30px 0 40px;
+}
+.introduc_con .introduc_list li{
+  font-size:18px;
+  line-height:36px;
+  color: #333;
+}
+.introduc_con .introduc_list li a{
+  font-size:18px;
+  color: #d7000f;
+}
+
+
+
+.zgzf_ycxf { 
+   position: fixed;
+   width: 82px;
+   height: 202px;
+   right: 0px;
+    top: 30%; 
+  background:url(../images/zgzf_ycxf.png) no-repeat center top;
+  z-index: 1222; 
+}
+.zgzf_ycxf a{
+  display:block;
+  width: 82px;
+    height: 100px;
+}
+
+
